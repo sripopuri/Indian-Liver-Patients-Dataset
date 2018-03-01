@@ -9,4 +9,6 @@ As mentioned in the code I would like to give next versions of analysis for this
 Soon there will be a final version of this problem.
 This code is posted as a kernel in the Kaggle platform as well. Please feel free to comment!
 
+Please feel free to check out my other repositories "My work on Data Science", "Web Scraping in R"
+
 Sri Harish Popuri, Data Scientist.
