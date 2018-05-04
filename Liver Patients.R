@@ -7,7 +7,7 @@
 # 01error = False Positive
 
 # Clearing the workspace 
-rm(list = ls())  
+rm(list = ls())   
 
 # Loading the required packages
 library(dummies)
