@@ -104,7 +104,7 @@ summary(logistic)
 # 
 # (Dispersion parameter for binomial family taken to be 1)
 # 
-# Null deviance: 599.20  on 500  degrees of freedom
+# Null deviance: 599.20  on 500  degrees of freedom 
 # Residual deviance: 495.47  on 490  degrees of freedom
 # AIC: 517.47
 # 
